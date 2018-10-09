@@ -1,0 +1,7 @@
+{
+  "name": "threeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
